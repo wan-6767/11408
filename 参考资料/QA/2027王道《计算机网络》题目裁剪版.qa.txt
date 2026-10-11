@@ -1,0 +1,49 @@
+计算机网络 exercise reflow QA inventory
+book=network
+dpi=250
+output_width_pt=466.141
+source_crop_x_pt=52.0..490.0
+content_y_pt=64.0..706.0
+page_margin_pt=14.0
+crop_padding_pt=4.0
+block_bottom_padding_pt=1.25
+end_boundary_gap_pt=4.0
+max_boundary_extension_pt=6.0
+question_answer_gap_pt=14.0
+answer_question_gap_pt=8.0
+chapter_section_gap_pt=3.0
+section_question_gap_pt=8.0
+locator_titles=source-rendered chapter running header + subsection heading before first question
+special_regions=１.２/q36/q36; １.２/q37/q37
+sections=28
+pairs=643
+output_pages=184
+
+１.１: 20 pairs; chapter_title=p20@47.43; section_title=p12@398.19; question_end=p23@74.18; answer_end=p26@288.17 １．２计算机网络体系结构与参考模型
+１.２: 38 pairs; chapter_title=p34@47.48; section_title=p26@288.17; question_end=p36@507.18; answer_end=p39@638.16 １．３本章小结及疑难点
+２.１: 30 pairs; chapter_title=p46@47.44; section_title=p41@422.06; question_end=p49@465.18; answer_end=p53@172.23 ２．２传输介质
+２.２: 12 pairs; chapter_title=p56@47.44; section_title=p53@172.23; question_end=p56@274.18; answer_end=p57@216.86 ２．３物理层设备
+２.３: 9 pairs; chapter_title=p58@47.44; section_title=p57@216.86; question_end=p59@74.18; answer_end=p59@634.10 ２．４本章小结及疑难点
+３.１: 6 pairs; chapter_title=p64@47.44; section_title=p61@597.11; question_end=p64@311.18; answer_end=p65@129.06 ３．２组帧
+３.２: 2 pairs; chapter_title=p66@47.44; section_title=p65@129.06; question_end=p66@647.18; answer_end=p67@316.93 ３．３差错控制
+３.３: 10 pairs; chapter_title=p70@47.44; section_title=p67@316.93; question_end=p71@403.18; answer_end=p72@593.17 ３．４流量控制与可靠传输机制
+３.４: 38 pairs; chapter_title=p78@47.38; section_title=p72@593.17; question_end=p83@82.12; answer_end=p88@643.18 ３．５介质访问控制
+３.５: 21 pairs; chapter_title=p94@47.44; section_title=p88@643.18; question_end=p96@220.24; answer_end=p98@264.99 ３．６局域网
+３.６: 54 pairs; chapter_title=p112@46.33; section_title=p98@264.99; question_end=p117@128.18; answer_end=p124@172.93 ３．７广域网
+３.７: 12 pairs; chapter_title=p126@47.44; section_title=p124@172.93; question_end=p127@563.18; answer_end=p128@569.06 数据链路层设备
+３.８: 23 pairs; chapter_title=p132@47.44; section_title=p128@569.06; question_end=p134@468.24; answer_end=p137@98.10 ３．９本章小结及疑难点
+４.１: 21 pairs; chapter_title=p144@47.44; section_title=p138@561.99; question_end=p146@112.18; answer_end=p148@306.51 ＩＰｖ４
+４.２: 90 pairs; chapter_title=p162@47.44; section_title=p148@306.51; question_end=p176@143.18; answer_end=p192@471.71 ４．３ＩＰｖ６
+４.３: 7 pairs; chapter_title=p196@46.38; section_title=p192@471.71; question_end=p196@326.24; answer_end=p197@205.17 ４．４路由算法与路由协议
+４.４: 33 pairs; chapter_title=p208@47.44; section_title=p197@205.17; question_end=p214@82.12; answer_end=p219@622.94 ４．５ＩＰ多播
+４.５: 5 pairs; chapter_title=p222@46.33; section_title=p219@622.94; question_end=p222@288.18; answer_end=p223@97.74 ４．６移动ＩＰ
+４.６: 3 pairs; chapter_title=p224@46.33; section_title=p223@97.74; question_end=p224@602.18; answer_end=p225@251.06 ４．７网络层设备
+４.７: 24 pairs; chapter_title=p228@47.44; section_title=p225@251.06; question_end=p230@395.18; answer_end=p234@98.10 ４．８本章小结及疑难点
+５.１: 10 pairs; chapter_title=p238@47.45; section_title=p235@414.12; question_end=p239@204.18; answer_end=p240@123.14 ５．２ＵＤＰ
+５.２: 22 pairs; chapter_title=p242@47.39; section_title=p240@123.14; question_end=p244@438.18; answer_end=p247@221.71 ５．３ＴＣＰ
+５.３: 75 pairs; chapter_title=p258@47.45; section_title=p247@221.71; question_end=p267@173.12; answer_end=p276@347.10 ５．４本章小结及疑难点
+６.１: 6 pairs; chapter_title=p280@47.44; section_title=p278@457.12; question_end=p280@478.18; answer_end=p281@264.99 ６．２域名系统
+６.２: 16 pairs; chapter_title=p284@47.44; section_title=p281@264.99; question_end=p286@430.18; answer_end=p288@319.12 文件传输协议
+６.３: 18 pairs; chapter_title=p290@47.44; section_title=p288@319.12; question_end=p291@612.18; answer_end=p294@251.00 ６．４电子邮件
+６.４: 15 pairs; chapter_title=p298@46.33; section_title=p294@251.00; question_end=p299@212.18; answer_end=p300@531.99 ６．５万维网
+６.５: 23 pairs; chapter_title=p306@47.44; section_title=p300@531.99; question_end=p309@579.12; answer_end=p314@96.10 ６．６本章小结及疑难点

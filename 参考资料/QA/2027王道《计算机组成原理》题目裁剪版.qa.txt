@@ -1,0 +1,48 @@
+计算机组成原理 exercise reflow QA inventory
+book=co
+dpi=250
+output_width_pt=466.141
+source_crop_x_pt=52.0..490.0
+content_y_pt=64.0..706.0
+page_margin_pt=14.0
+crop_padding_pt=4.0
+block_bottom_padding_pt=1.25
+end_boundary_gap_pt=4.0
+max_boundary_extension_pt=6.0
+question_answer_gap_pt=14.0
+answer_question_gap_pt=8.0
+chapter_section_gap_pt=3.0
+section_question_gap_pt=8.0
+locator_titles=source-rendered chapter running header + subsection heading before first question
+special_regions=２.３/co_q49/q49; ５.３/co_a20/q20
+sections=27
+pairs=683
+output_pages=203
+
+１.２: 14 pairs; chapter_title=p20@47.46; section_title=p13@530.19; question_end=p20@584.16; answer_end=p22@216.14 １．３计算机的性能指标
+１.３: 22 pairs; chapter_title=p24@47.46; section_title=p22@216.14; question_end=p26@572.16; answer_end=p29@355.13 １．４本章小结
+２.１: 34 pairs; chapter_title=p38@46.34; section_title=p31@541.09; question_end=p40@624.18; answer_end=p43@596.12 ２．２运算方法和运算电路
+２.２: 39 pairs; chapter_title=p56@46.34; section_title=p43@596.12; question_end=p59@567.18; answer_end=p64@580.17 ２．３浮点数的表示与运算
+２.３: 50 pairs; chapter_title=p72@46.34; section_title=p64@580.17; question_end=p77@482.18; answer_end=p86@141.10 ２．４本章小结
+３.１: 11 pairs; chapter_title=p92@46.33; section_title=p88@623.12; question_end=p92@328.24; answer_end=p93@212.06 ３．２主存储器
+３.２: 42 pairs; chapter_title=p98@47.44; section_title=p93@212.06; question_end=p103@128.18; answer_end=p108@419.06 ３．３主存储器与ＣＰＵ的连接
+３.３: 16 pairs; chapter_title=p110@46.33; section_title=p108@419.06; question_end=p111@598.12; answer_end=p113@460.06 ３．４外部存储器
+３.４: 13 pairs; chapter_title=p116@46.33; section_title=p113@460.06; question_end=p118@310.12; answer_end=p120@189.12 ３．５高速缓冲存储器
+３.５: 41 pairs; chapter_title=p128@47.44; section_title=p120@189.12; question_end=p133@609.18; answer_end=p141@198.06 ３．６虚拟存储器
+３.６: 29 pairs; chapter_title=p146@46.33; section_title=p141@198.06; question_end=p152@218.18; answer_end=p157@584.10 ３．７本章小结
+４.１: 19 pairs; chapter_title=p162@47.48; section_title=p159@535.11; question_end=p164@498.18; answer_end=p167@244.86 ４．２寻址方式
+４.２: 38 pairs; chapter_title=p172@47.48; section_title=p167@244.86; question_end=p177@281.24; answer_end=p182@589.22 ４．３程序的机器级代码表示
+４.３: 19 pairs; chapter_title=p192@46.37; section_title=p182@589.22; question_end=p198@174.18; answer_end=p201@595.12 ４．４ＣＩＳＣ和ＲＩＳＣ的基本概念－
+４.４: 6 pairs; chapter_title=p204@47.48; section_title=p201@595.12; question_end=p204@185.18; answer_end=p204@612.05 ４．５本章小结
+５.１: 24 pairs; chapter_title=p208@46.33; section_title=p206@581.33; question_end=p210@373.24; answer_end=p212@399.17 ５．２指令执行过程
+５.２: 11 pairs; chapter_title=p216@47.44; section_title=p212@399.17; question_end=p216@231.24; answer_end=p217@296.16 ５．３数据通路的功能和基本结构
+５.３: 28 pairs; chapter_title=p224@47.44; section_title=p217@296.16; question_end=p232@250.18; answer_end=p239@328.06 ５．４控制器的功能和工作原理
+５.４: 32 pairs; chapter_title=p246@47.44; section_title=p239@328.06; question_end=p249@284.18; answer_end=p253@191.22 ５．５异常和中断机制
+５.５: 13 pairs; chapter_title=p256@47.44; section_title=p253@191.22; question_end=p256@579.18; answer_end=p258@249.17 ５．６指令流水线
+５.６: 36 pairs; chapter_title=p266@47.44; section_title=p258@249.17; question_end=p271@632.18; answer_end=p278@243.17 ５．７多处理器的基本概念
+５.７: 12 pairs; chapter_title=p282@46.33; section_title=p278@243.17; question_end=p282@286.18; answer_end=p283@461.16 ５．８本章小结
+６.１: 27 pairs; chapter_title=p290@47.44; section_title=p285@398.23; question_end=p291@601.12; answer_end=p294@471.12 ６．２总线事务和定时
+６.２: 20 pairs; chapter_title=p298@47.44; section_title=p294@471.12; question_end=p299@220.18; answer_end=p301@280.10 ６．３本章小结
+７.１: 4 pairs; chapter_title=p304@47.45; section_title=p302@461.29; question_end=p304@384.12; answer_end=p304@613.99 ７．２Ｉ／Ｏ接口
+７.２: 17 pairs; chapter_title=p306@47.45; section_title=p304@613.99; question_end=p308@374.18; answer_end=p310@97.86 ７．３Ｉ／Ｏ方式
+７.３: 66 pairs; chapter_title=p320@46.34; section_title=p310@97.86; question_end=p328@271.18; answer_end=p337@260.10 ７．４本章小结

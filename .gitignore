@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+候选输出/
+临时输出/
+渲染预览/
+*.tmp

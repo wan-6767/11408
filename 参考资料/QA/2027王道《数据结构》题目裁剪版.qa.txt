@@ -1,0 +1,51 @@
+数据结构 exercise reflow QA inventory
+book=ds
+dpi=250
+output_width_pt=466.141
+source_crop_x_pt=52.0..490.0
+content_y_pt=64.0..706.0
+page_margin_pt=14.0
+crop_padding_pt=4.0
+block_bottom_padding_pt=1.25
+end_boundary_gap_pt=4.0
+max_boundary_extension_pt=6.0
+question_answer_gap_pt=14.0
+answer_question_gap_pt=8.0
+chapter_section_gap_pt=3.0
+section_question_gap_pt=8.0
+locator_titles=source-rendered chapter running header + subsection heading before first question
+special_regions=５.３/ds_q32/q32; ５.３/ds_q36/q36; ５.３/ds_q37/q37; ５.３/ds_a05/q5; ５.３/ds_a42/q42; ５.４/ds_q12/q12; ５.４/ds_a20/q20; ５.５/ds_a18/q18; ５.５/ds_a23/q23; ６.２/ds_q05/q5; ６.２/ds_a21/q21; ６.２/ds_a22/q22; ６.３/ds_q07/q7; ６.４/ds_q15/q15; ６.４/ds_q16/q16; ６.４/ds_q26/q26; ６.４/ds_q49/q49; ６.４/ds_q58/q58; ７.２/ds_q21/q21
+sections=30
+pairs=805
+output_pages=264
+
+１.１: 7 pairs; chapter_title=p14@46.31; section_title=p12@534.15; question_end=p15@128.16; answer_end=p15@597.09 １．２算法和算法评价
+１.２: 19 pairs; chapter_title=p18@46.31; section_title=p15@597.09; question_end=p19@621.09; answer_end=p22@442.92 归纳总结
+２.１: 4 pairs; chapter_title=p26@46.31; section_title=p24@502.13; question_end=p25@631.16; answer_end=p26@234.03 ２．２线性表的顺序表示
+２.２: 28 pairs; chapter_title=p30@46.33; section_title=p26@234.03; question_end=p32@472.18; answer_end=p41@583.99 ２．３线性表的链式表示
+２.３: 56 pairs; chapter_title=p50@46.33; section_title=p41@583.99; question_end=p56@628.18; answer_end=p73@199.01 归纳总结
+３.１: 36 pairs; chapter_title=p78@47.45; section_title=p74@563.06; question_end=p80@533.12; answer_end=p87@268.60 ３．２队列
+３.２: 28 pairs; chapter_title=p94@46.34; section_title=p87@268.60; question_end=p95@623.18; answer_end=p101@92.12 ３．３栈和队列的应用－
+３.３: 21 pairs; chapter_title=p106@47.45; section_title=p101@92.12; question_end=p107@629.18; answer_end=p111@569.28 ．４数组和特殊矩阵
+３.４: 16 pairs; chapter_title=p116@47.45; section_title=p111@569.28; question_end=p116@563.18; answer_end=p119@85.94 归纳总结
+４.２: 14 pairs; chapter_title=p130@47.38; section_title=p122@428.12; question_end=p130@215.18; answer_end=p134@91.94 归纳总结
+５.１: 13 pairs; chapter_title=p138@46.33; section_title=p135@609.17; question_end=p138@529.12; answer_end=p140@482.12 ５．２二叉树的概念
+５.２: 36 pairs; chapter_title=p144@46.33; section_title=p140@482.12; question_end=p146@447.12; answer_end=p151@374.06 ５．３二叉树的遍历和线索二叉树－
+５.３: 60 pairs; chapter_title=p158@47.44; section_title=p151@374.06; question_end=p163@441.12; answer_end=p179@444.06 ５．４树、森林一
+５.４: 26 pairs; chapter_title=p184@47.44; section_title=p179@444.06; question_end=p186@82.12; answer_end=p191@510.93 ５．５树与二叉树的应用
+５.５: 26 pairs; chapter_title=p196@46.33; section_title=p191@510.93; question_end=p198@546.18; answer_end=p203@482.88 归纳总结
+６.１: 19 pairs; chapter_title=p208@47.38; section_title=p206@530.39; question_end=p210@375.18; answer_end=p212@512.10 ６．２图的存储及基本操作
+６.２: 28 pairs; chapter_title=p218@46.38; section_title=p212@512.10; question_end=p221@113.18; answer_end=p225@370.75 ６．３图的遍历
+６.３: 23 pairs; chapter_title=p230@47.38; section_title=p225@370.75; question_end=p232@308.18; answer_end=p237@91.80 ６．４图的应用
+６.４: 61 pairs; chapter_title=p248@47.38; section_title=p237@91.80; question_end=p257@127.18; answer_end=p273@127.94 归纳总结
+７.２: 33 pairs; chapter_title=p280@47.44; section_title=p276@310.06; question_end=p283@615.18; answer_end=p289@607.99 ７．３树形查找
+７.３: 44 pairs; chapter_title=p302@46.33; section_title=p289@607.99; question_end=p306@274.18; answer_end=p315@619.24 ７．４Ｂ树①和Ｂ＋树－
+７.４: 28 pairs; chapter_title=p320@46.33; section_title=p315@619.24; question_end=p322@576.18; answer_end=p328@535.12 ７．５散列（Ｈａｓｈ）表
+７.５: 31 pairs; chapter_title=p332@46.33; section_title=p328@535.12; question_end=p335@280.18; answer_end=p341@214.01 归纳总结
+８.１: 3 pairs; chapter_title=p344@46.33; section_title=p342@616.12; question_end=p343@628.18; answer_end=p344@200.88 ８．２插入排序
+８.２: 22 pairs; chapter_title=p348@46.33; section_title=p344@200.88; question_end=p349@83.18; answer_end=p351@262.99 ８．３交换排序
+８.３: 24 pairs; chapter_title=p356@46.33; section_title=p351@262.99; question_end=p357@227.18; answer_end=p362@143.86 ８．４选择排序
+８.４: 29 pairs; chapter_title=p366@47.44; section_title=p362@143.86; question_end=p368@206.18; answer_end=p374@346.00 ８．５归并排序、基数排序和计数排序－
+８.５: 23 pairs; chapter_title=p378@46.33; section_title=p374@346.00; question_end=p381@97.18; answer_end=p384@208.12 ８．６各种内部排序算法的比较及应用
+８.６: 26 pairs; chapter_title=p386@47.44; section_title=p384@208.12; question_end=p388@237.18; answer_end=p391@442.88 ８．７外部排序
+８.７: 21 pairs; chapter_title=p396@46.33; section_title=p391@442.88; question_end=p397@631.18; answer_end=p401@500.94 归纳总结

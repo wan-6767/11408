@@ -1,0 +1,37 @@
+操作系统 exercise reflow QA inventory
+book=os
+dpi=250
+output_width_pt=466.141
+source_crop_x_pt=52.0..490.0
+content_y_pt=64.0..706.0
+page_margin_pt=14.0
+crop_padding_pt=4.0
+block_bottom_padding_pt=1.25
+end_boundary_gap_pt=4.0
+max_boundary_extension_pt=6.0
+question_answer_gap_pt=14.0
+answer_question_gap_pt=8.0
+chapter_section_gap_pt=3.0
+section_question_gap_pt=8.0
+locator_titles=source-rendered chapter running header + subsection heading before first question
+special_regions=３.１/os_q7/q7; ５.２/os_q38/q38
+sections=16
+pairs=760
+output_pages=228
+
+１.１: 11 pairs; chapter_title=p16@47.41; section_title=p12@460.15; question_end=p17@188.22; answer_end=p18@175.03 １．２操作系统发展历程
+１.２: 22 pairs; chapter_title=p22@47.46; section_title=p18@175.03; question_end=p23@265.16; answer_end=p26@143.03 １．３操作系统的运行环境
+１.３: 33 pairs; chapter_title=p30@46.35; section_title=p26@143.03; question_end=p33@409.16; answer_end=p37@276.03 １．４操作系统结构
+１.６: 22 pairs; chapter_title=p42@47.46; section_title=p41@95.08; question_end=p44@214.16; answer_end=p46@525.07 １．７本章疑难点
+２.１: 74 pairs; chapter_title=p62@47.44; section_title=p48@617.20; question_end=p69@359.18; answer_end=p77@358.06 ２．２ＣＰＵ调度
+２.２: 67 pairs; chapter_title=p90@47.44; section_title=p77@358.06; question_end=p98@113.18; answer_end=p110@98.12 ２．３同步与互斥
+２.３: 85 pairs; chapter_title=p126@47.44; section_title=p110@98.12; question_end=p138@140.12; answer_end=p160@601.74 ２．４死锁
+２.４: 50 pairs; chapter_title=p170@47.44; section_title=p160@601.74; question_end=p176@320.18; answer_end=p186@231.05 ２．５本章疑难点
+３.１: 83 pairs; chapter_title=p202@47.45; section_title=p187@416.12; question_end=p211@620.12; answer_end=p223@88.12 ３．２虚拟内存管理
+３.２: 83 pairs; chapter_title=p238@46.34; section_title=p223@88.12; question_end=p248@197.18; answer_end=p261@417.10 ３．３本章疑难点
+４.１: 5 pairs; chapter_title=p268@46.34; section_title=p262@449.11; question_end=p267@391.18; answer_end=p268@128.06 ４．２目录与文件
+４.２: 85 pairs; chapter_title=p282@46.34; section_title=p268@128.06; question_end=p293@113.18; answer_end=p305@97.00 ４．３文件系统
+４.３: 20 pairs; chapter_title=p312@46.34; section_title=p305@97.00; question_end=p313@290.18; answer_end=p315@388.10 ４．４本章疑难点
+５.１: 28 pairs; chapter_title=p326@47.45; section_title=p316@492.17; question_end=p328@340.18; answer_end=p331@169.11 ５．２设备独立性软件
+５.２: 49 pairs; chapter_title=p340@47.45; section_title=p331@169.11; question_end=p345@245.18; answer_end=p351@289.24 ５．３磁盘和固态硬盘①
+５.３: 43 pairs; chapter_title=p360@46.34; section_title=p351@289.24; question_end=p363@575.18; answer_end=p370@95.05 ５．４本章疑难点
